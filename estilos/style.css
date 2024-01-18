@@ -8,9 +8,9 @@ body {
 }
 
 main {
-    background-color: rgb(25, 44, 61);
+    background-color: rgb(150, 170, 188);
     width: 500px;
     margin: auto;
     padding: 10px;
-    box-shadow: 3px 3px 5px black;
+    box-shadow: 3px 3px 5px rgb(110, 111, 169);
 }
